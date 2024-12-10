@@ -2,6 +2,7 @@ html {
     padding: 50px;
     font-family: 'Diavlo', sans-serif;
     background-color: whitesmoke;
+    height: calc(100vh - 100px);
 }
 
 a {
